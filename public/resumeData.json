@@ -4,7 +4,7 @@
     "occupation":"front-end developer",
     "description":"Shortly about me:programmer, debate trainer, psychologist",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"With a passion to design and develop, I want to work as front end developer where I could create digital magic and elevate user experience to the next level.>2  years of experience in HTML5, CSS3,Bootstrap, and  >1 year in Javascript,jQuery.Knowledge of React,APIs,JSON,Git,PHP5 and MySQL.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "pjotr.leshkin@gmail.com",
     "phone": "+372 581 39 420",
@@ -14,8 +14,8 @@
       "state":"Harjumaa",
       "zip": "11616"
     },
-    "website": "www.pjotrleshkin.com",
-    "resumedownload":"www.pjotrleshkin.com/resume",
+    "website": "#",
+    "resumedownload":"/resume",
     "social":[
       {
         "name":"facebook",
@@ -46,19 +46,19 @@
         "school":"IATI",
         "degree":"Database manager and web prorgammer",
         "graduated":"April 2013",
-        "description":"During my studies I've learned about OOP concepts and functional programming. I've listened courses about Java, PHP5, MySQL, and front-end developement technologies and markup languages such as HTML5, CSS3, native Javascript and jQuery."
+        "description":"During my studies I've learned about OOP concepts and functional programming. Mainly I've studied PHP5, MySQL, and front-end developement technologies such as native Javascript and jQuery."
       },
       {
         "school":"Tallinn University",
         "degree":"Psychologist",
         "graduated":"currently graduating",
-        "description":"I've left University because of army service. Wright now I'm working at my diploma in UX field."
+        "description":"Studing in University gave me understanding of keen principles of usability and user experience creation. During studies I was mainly focused at gestalt psychology and gamification.The reason why studies took so long, is that I've left university for a year  because of military service and one year after my service I basically spent in hospital. Wright now I'm working at my diploma in UX field."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
+        "company":"Estonian Debating Society",
+        "title":"Russian-speaking trainer ",
         "years":"March 2010 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
@@ -72,31 +72,31 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
         "level":"50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"CSS3",
+        "level":"70%"
       },
       {
         "name":"HTML5",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"React",
+        "level":"60%"
       },
       {
-        "name":"MongoDB",
+        "name":"JSON",
         "level":"80%"
+      },
+      {
+        "name":"Laravel",
+        "level":"33%"
+      },
+      {
+        "name":"MySQL",
+        "level":"33%"
       }
     ]
   },
