@@ -29,7 +29,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/bashork",
+        "url":"http://github.com/qwertysocket",
         "className":"fa fa-github"
       },
       {
@@ -58,15 +58,9 @@
     "work":[
       {
         "company":"Estonian Debating Society",
-        "title":"Russian-speaking trainer ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "title":"Trainer ",
+        "years":"March 2016 - Present",
+        "description":"During last multiple years I've became a champion of Estonia in British Parlament Debating. I've lead multiple training sessions in schools and universities, such as Tartu University, Tallinn Technical University etc.Also, appeared at television as judge in debates petween different polititians."
       }
     ],
     "skills":[
@@ -103,46 +97,41 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"react-resume.png",
+        "url":""
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Freelance Photographer website",
+        "category":"Freelance photographer gallery",
+        "image":"vorontsova.png",
+        "url":""
+      },
+      {
+        "title":"ADV+",
+        "category":"Website for legal company",
+        "image":"adv.png",
+        "url":""
+      },
+      
+      {
+        "title":"Bootstrap Resume",
+        "category":"Bootstrap resume for anyone",
+        "image":"bootstrap-resume.png",
+        "url":""
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Great developer. Clearly explains his desigions around UI components and always seeks for best solution for client.",
+        "user":"Jana Vorontsova"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Well-working employee. In process of creation always was ready to search better solution again and again, and also showed great effort in creating intuitive UI possible.",
+        "user":"Sergei Grigorjev"
       }
     ]
   }
